@@ -1,7 +1,7 @@
 ### Olá Pessoal! 👋
 
 <p align="justify"> 
-  Meu nome é Alisson, atualmente sou <strong>Estagiário de Desenvolvimento Front-end</strong> e trabalho com ReactJS.
+  Meu nome é Alisson, atualmente sou <strong>Estagiário de Desenvolvimento Front-end</strong> utilizando a tecnologia ReactJS.
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
   <img align="center" alt="Alisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div style="margin-top: 30px" align="center">
+<div align="center">
   <a href = "mailto:romao.portfolio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alissonrsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
